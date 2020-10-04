@@ -7,7 +7,6 @@ namespace DatingApp.API.Helpers
 {
     public class AutoMapperProfiles : Profile
     {
-        
         public AutoMapperProfiles()
         {
             CreateMap<User, UserForListDto>()
@@ -25,6 +24,7 @@ namespace DatingApp.API.Helpers
                     opt.MapFrom(d => d.DateOfBirth.CalculateAge());
                 });
             CreateMap<Photo, PhotosForDetailedDto>();
+            CreateMap<UserForUpdateDto, User>();
         }
     }
 } 
