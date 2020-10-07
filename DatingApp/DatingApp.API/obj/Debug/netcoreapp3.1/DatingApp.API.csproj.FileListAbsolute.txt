@@ -66,3 +66,4 @@ F:\udmeyproject\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.cs
 F:\udmeyproject\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.MvcApplicationPartsAssemblyInfo.cache
 F:\udmeyproject\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
 F:\udmeyproject\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\udmeyproject\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\CloudinaryDotNet.dll
